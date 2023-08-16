@@ -38,16 +38,17 @@
 
 ## Peindre et dessiner
 *(Beaux-Arts)*
-- [How to mix paint?](https://littleneocreative.com/mixingpaint/) - Lesson on mixing paint together by Nicole Little.
-- [Shading References](https://shadingreference.com) - This tool generates basic shapes in browser so you can study and reference them from arts
-- [Cosmo Learning](https://cosmolearning.org/topics/drawing/) - Courses and videos offered by CosmoLearning
+- [How to mix paint?](https://littleneocreative.com/mixingpaint/) - Leçon sur le mélange de peinture par Nicole Little.
+- [Shading References](https://shadingreference.com) - Cet outil génère des formes de base dans le navigateur afin que vous puissiez les étudier et les référencer à partir des arts
+- [Cosmo Learning](https://cosmolearning.org/topics/drawing/) - Cours et vidéos proposés par CosmoLearning
 
-## Digital Photography
-- [Digital Photography with Marc Levoy](https://cosmolearning.org/courses/digital-photography-with-marc-levoy/) - Based on CS 178 (Digital Photography) taught at Stanford by Marc Levoy
-## Industrial Design
-*(Applied Arts)*
-- [Industrial design at Delta Faucet](https://youtu.be/c1ksrjRA678) - Nate talks with Delta Faucet industrial designers about what it takes to design every day objects like Faucet.
+## Photographie
+- [Digital Photography with Marc Levoy](https://cosmolearning.org/courses/digital-photography-with-marc-levoy/) - Basé sur CS 178 (Photographie numérique) enseigné à Stanford par Marc Levoy
 
-## Talks
-- [The first secret of great design](https://youtu.be/9uOMectkCCs) - TED Talk by Tony Fadell
-- [The Art of Engineering](https://archive.org/details/podcast_businessleadership-video_the-art-engineering_1000084846101) - [James Dyson](https://en.wikipedia.org/wiki/James_Dyson) (Inventor and Founder of Dyson, Ltd.) talks about engineering and design
+## Design industriel
+*(Arts appliqués)*
+- [Industrial design at Delta Faucet](https://youtu.be/c1ksrjRA678) - Nate discute avec les designers industriels de Delta Faucet de ce qu'il faut pour concevoir des objets de tous les jours comme Faucet.
+
+## Discussions
+- [The first secret of great design](https://youtu.be/9uOMectkCCs) - TED Talk par Tony Fadell
+- [The Art of Engineering](https://archive.org/details/podcast_businessleadership-video_the-art-engineering_1000084846101) - [James Dyson](https://en.wikipedia.org/wiki/James_Dyson) (inventeur et fondateur de Dyson, Ltd.) parle d'ingénierie et de conception

@@ -1,6 +1,7 @@
 # Science
 
 - [Explore Science](#explore-science)
+- [Middle School Science](#middle-school-science)
 - [Physics](#physics)
   - [Introduction to Physics](#introduction-to-physics)
   - [AP or College Physics 1](#ap-or-college-physics-1)
@@ -27,7 +28,10 @@
 ## Explore Science
 - [What is science?](https://youtu.be/TclBJZuUAOY) - A brief description of the nature of science, including examples and traits of good scientists.
 - [Understanding Science 101](https://undsci.berkeley.edu/understanding-science-101/what-is-science/) - Understanding Science 101, University of California, Berkeley
-- [STEM Ideas & The Practices of Science](https://www.youtube.com/playlist?list=PLat8Jejmdx1sfzUPWL-lI6WbT109A7PC_) - Cool new learning tools & activities by Jared Hottenstein that you can use with your students to help them learn the nature of engineering & science
+- [STEM Ideas & The Practices of Science](https://www.youtube.com/playlist?list=PLat8Jejmdx1sfzUPWL-lI6WbT109A7PC_) - Cool new learning tools & activities by Jared Hottenstein that you can use with your students to help them learn the nature of engineering & science.
+
+## Middle School Science
+- [OpenSciEd Instructional Materials](https://www.openscied.org/access-the-materials/) - Handouts and classroom resources for every unit for middle school science according to NGSS standards by OpenSciEd.
   
 ## Physics
 

@@ -1,17 +1,17 @@
 # Technology
 
-- [Technology](#technology)
-  - [Hows and whys?](#hows-and-whys)
-  - [Computer Science](#computer-science)
-    - [Programming For Kids](#programming-for-kids)
-    - [Computer Science Opportunities For Students](#computer-science-opportunities-for-students)
-    - [Getting Started With Computer Science](#getting-started-with-computer-science)
-    - [AP or College Computer Science Principles](#ap-or-college-computer-science-principles)
-    - [AP or College Computer Science A (Object Oriented Programming in Java)](#ap-or-college-computer-science-a-object-oriented-programming-in-java)
-    - [Computer Science Major](#computer-science-major)
-    - [Source Control](#source-control)
-    - [iOS Development](#ios-development)
-    - [Language Guides](#language-guides)
+- [Hows and whys?](#hows-and-whys)
+- [Computer Science](#computer-science)
+  - [Programming For Kids](#programming-for-kids)
+  - [Computer Science Opportunities For Students](#computer-science-opportunities-for-students)
+  - [Getting Started With Computer Science](#getting-started-with-computer-science)
+  - [AP or College Computer Science Principles](#ap-or-college-computer-science-principles)
+  - [AP or College Computer Science A (Object Oriented Programming in Java)](#ap-or-college-computer-science-a-object-oriented-programming-in-java)
+  - [Computer Science Major](#computer-science-major)
+  - [Source Control](#source-control)
+  - [iOS Development](#ios-development)
+  - [Web Development](#web-development)
+  - [Language Guides](#language-guides)
 
  ---
 
@@ -26,6 +26,7 @@
 - [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - Apple's iPad/mac app for learning Swift in a fun, interactive way.
 - [Construct 3](https://www.construct.net/en) - A free-to-use online game studio for beginners to build their own games.
 - [Code.org](https://studio.code.org/courses) - Free interactive cs courses and hour long tutorials for students across all grade levels (K-12+).
+- [Isaac Computer Science](https://isaaccomputerscience.org/) - Online platform for exploring computer science for students across all grade levels (K-12+).
 
 ### Computer Science Opportunities For Students
 - [Apple WWDC Scholarships](https://developer.apple.com/wwdc22/swift-student-challenge/) - International challenge where students showcase their passion for coding by creating a Swift Playgrounds app project on the topic of their choice. Winners receive exclusive Apple merch, one year of membership in the Apple Developer Program, and a free ticket to Apple's Worldwide Developer Conference (WWDC).
@@ -64,6 +65,9 @@
 ### iOS Development
 - [Stanford CS193P](https://cs193p.sites.stanford.edu) - Stanford University's course on developing applications for iOS using SwiftUI taught by Professor Paul Hegarty. Students are recommended to have experienec in object-oriented programming prior to taking the course.
 - [Apple Developer SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui) - Hands-on tutorials by Apple teaching the fundamentals of SwiftUI.
+
+### Web Development
+- [Eloquent Javascript](https://eloquentjavascript.net) - Interactive online book on Javascript taking you through the basics of the language, its incorporation into the browser, and backend programming with Node.js by Marijn Haverbeke.
 
 ### Language Guides
 - [Programming: Principles and Practice Using C++, 2nd Edition](https://learning.oreilly.com/library/view/programming-principles-and/9780133796759/) - An introduction to the fundamentals concepts and techniques in programming through C++ by the creator of C++.
